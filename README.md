@@ -93,9 +93,8 @@ Embedded Systems
 
 <pre>
 📖  Novels         — Classics, Fantasy, SciFi
-🎮  Video Games    — Sekiro >>
-🎵  Music          — Drake >>
-🏛️  Philosophy     — free will is a lie probably
+🎮  Video Games    — Sekiro , Skyrim , Minecraft 
+🎵  Music          — HipHop , Rap , Drake 
 </pre>
 
 ---
