@@ -27,10 +27,10 @@ Cracked • Builder • Obsessive Learner • Systems Thinker
 ### > whoami
 
 <pre>
-Fullstack dev with a deep itch for low-level systems,
-math-driven problem solving, and building things
-that actually do something interesting.
-If it involves Math, Code, Logic, Problem Solving — I'm in.
+    Fullstack dev with a deep itch for low-level systems,
+    math-driven problem solving, and building things
+    that actually do something interesting.
+    If it involves Math, Code, Logic, Problem Solving , I'm in.
 </pre>
 
 ---
