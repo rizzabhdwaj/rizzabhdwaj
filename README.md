@@ -80,7 +80,7 @@ Embedded Systems
 
 <pre>
 [SEMI-FINALIST]  Kaya X IIT Hackathon
-                  → Built Chisel — a developer-focused project
+                  → Built Chisel - Github for physical infrastructure's 
                   → GitHub: github.com/rishabh1244/Chisel
 
 [SEMI-FINALIST]  Faraway Hackathon by Zuup
