@@ -5,7 +5,7 @@
 ██████╔╝██║███████╗███████║███████║██████╔╝███████║
 ██╔══██╗██║╚════██║██╔══██║██╔══██║██╔══██╗██╔══██║
 ██║  ██║██║███████║██║  ██║██║  ██║██████╔╝██║  ██║
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+╚═╝  ╚═╝╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═╝
 </pre>
 </div>
 
@@ -41,7 +41,7 @@ Cracked • Builder • Obsessive Learner • Systems Thinker
 Web Development     ████████████░░  MERN / Next.js
 Mathematics         ██████░░░░░░░░  Linear Algebra, Calculus
 Low Level Systems   ██░░░░░░░░░░░░  C / C++ / Rust
-AI / ML             █░░░░░░░░░░░░░  Currently Learning
+AI / ML             █░░░░░░░░░░░░  Currently Learning
 Web3                ██████░░░░░░░░  Exploring
 </pre>
 
@@ -76,6 +76,19 @@ Embedded Systems
 
 ---
 
+### > cat hackathons.log
+
+<pre>
+[SEMI-FINALIST]  Kaya X IIT Hackathon
+                  → Built Chisel — a developer-focused project
+                  → GitHub: github.com/rishabh1244/Chisel
+
+[SEMI-FINALIST]  Faraway Hackathon by Zuup
+                  → Built and shipped a project under hackathon constraints
+</pre>
+
+---
+
 ### > cat obsessions.log
 
 <pre>
@@ -93,11 +106,18 @@ Embedded Systems
 
 <pre>
 📖  Novels         — Classics, Fantasy, SciFi
-🎮  Video Games    — Sekiro , Skyrim , Minecraft 
-🎵  Music          — HipHop , Rap , Drake 
+🎮  Video Games    — Sekiro , Skyrim , Minecraft
+🎵  Music          — HipHop , Rap , Drake
 </pre>
 
 ---
+
+### > ./connect.sh
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/rishabh-kumar/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/@Rishabh1244)
+
+
 
 ### > ./connect.sh
 
