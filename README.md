@@ -113,7 +113,7 @@ Embedded Systems
 <pre>
 📖  Novels         — Classics, Fantasy, SciFi
 🎮  Video Games    — Sekiro , Skyrim , Minecraft
-🎵  Music          — HipHop , Rap , Drake
+🎵  Music          — Drake, Cole
 </pre>
 
 ---
