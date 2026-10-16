@@ -78,6 +78,9 @@ Embedded Systems
 ### > cat hackathons.log
 
 <pre>
+[1st Price]      Hacktober Fest Hackday BIT Sindri Dhanbad
+                  → Build a all-in-one Campus Club's App   
+  
 [SEMI-FINALIST]  Kaya X IIT Hackathon
                   → Built Chisel - Github for physical infrastructure's 
                   → GitHub: github.com/rishabh1244/Chisel
