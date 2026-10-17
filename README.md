@@ -6,9 +6,7 @@ I like understanding how things work under the hood ,especially databases, OS , 
 
 Currently exploring database internals, infrastructure, open-source development, and building projects.
 
-<div align="center">
-  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
-</div>
+
 
 ---
 
