@@ -40,9 +40,7 @@ Currently exploring database internals, infrastructure, open-source development,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-kumar/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@Rishabh1244) [![Goodreads](https://img.shields.io/badge/Goodreads-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/186803389-rishabh-kumar) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-new-xi-ashen.vercel.app/)
 
 ---
-<div align="center">
-  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
-</div>
+
 <div align="center">
 
 "Thou shalt not make a machine in the likeness of a man's mind"
