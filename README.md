@@ -48,4 +48,6 @@ Currently exploring database internals, infrastructure, open-source development,
 — Frank Herbert
 
 </div>
-
+<div align="center">
+  <img src="lorenz.svg" alt="Lorenz Attractor" width="400"/>
+</div>
