@@ -42,7 +42,7 @@ Currently exploring database internals, infrastructure, open-source development,
 <a href="https://linkedin.com/in/rishabh-kumar/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/@Rishabh1244" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.goodreads.com/user/show/186803389-rishabh-kumar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Goodreads-%23372213.svg?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads" /></a>
-<a href="https://portfolio-new-xi-ashen.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://rizzabh-dusky.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 ---
 
 <div align="center">
