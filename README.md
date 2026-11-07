@@ -25,7 +25,7 @@ Currently exploring database internals, infrastructure, open-source development,
 
 ### Achievements
 
-- **1st Place** — Hacktoberfest Hackday, BIT Sindri
+- **1st Place** — Hacktoberfest Hackday, Dhanbad
 - **Semi-finalist** — Kaya × IIT Hackathon
 - **Semi-finalist** — Faraway Hackathon by Zuup
 
