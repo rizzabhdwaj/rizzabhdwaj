@@ -47,7 +47,7 @@ Currently exploring database internals, infrastructure, open-source development,
 
 <div align="center">
 
-"Thou shalt not make a machine in the likeness of a man's mind"
+"Thou shalt not create a machine in the likeness of a human mind"
 
 — Frank Herbert , Dune
 
