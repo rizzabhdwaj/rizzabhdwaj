@@ -3,7 +3,7 @@
 
 **Full-Stack Developer · Databases · Systems & Infrastructure**
 
-I like understanding how things work under the hood ,especially databases, OS , systems, and the infrastructure behind reliable software. I enjoy building projects, exploring open source, and learning by implementing and debugging things myself.
+I like understanding how things work under the hood ,especially databases, OS , systems, and the infrastructure bewhind reliable software. I enjoy building projects, exploring open source, and learning by implementing and debugging things myself.
 
 Currently exploring database internals, infrastructure, open-source development, and building projects.
 
@@ -13,7 +13,7 @@ Currently exploring database internals, infrastructure, open-source development,
 
 ### Tech Stack
 
-**Languages:** C · C++ · Rust · TypeScript · Python  
+**Languages:** C · C++ · Rust · TypeScript · Go
 **Frontend:** React · Next.js · Tailwind CSS  
 **Backend:** Node.js · Express · PostgreSQL · MongoDB · Redis  
 **Interests:** Databases · Database Internals · Linux · Systems Programming · Distributed Systems · Infrastructure · Mathematics · AI/ML · Open Source
