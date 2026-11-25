@@ -22,6 +22,7 @@ Currently exploring database internals, infrastructure, open-source development,
 
 - [**Trading Engine**](https://github.com/rizzabhdwaj/trading-system) — A Rust-based trading engine exploring concurrency , order books, order matching, and trade settlement.
 - [**SQLHeavy**](https://github.com/rizzabhdwaj/SQLHeavy) — A database project focused on storage, tables, and low-level database implementation , using C / Rust FFI and Datafusion Query Engine
+- [**Vector**](https://github.com/rizzabhdwaj/Vector) — A Task Scheduler / Execution platform written in Rust (Scheduler) and Go-lang (Workers).
 - [**Break-The-Code**](https://github.com/rizzabhdwaj/Break-The-Code) — A fun coding platform where users challenge LLMs to debug intentionally broken code, with sandboxed execution.
 
 ### Achievements
